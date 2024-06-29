@@ -2,3 +2,4 @@ streamlit
 streamlit_webrtc
 ultralytics
 opencv-python
+dill
